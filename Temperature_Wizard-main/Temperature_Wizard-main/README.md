@@ -57,8 +57,3 @@ The Temperature Wizard project is licensed under the [MIT License](LICENSE).
 
 - The project uses the [Bootstrap](https://getbootstrap.com/) framework for responsive design.
 - Icons used in the project are from [FontAwesome](https://fontawesome.com/).
-
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [Alok Sharma](mailto:sharmaalok02gwl@gmail.com)
